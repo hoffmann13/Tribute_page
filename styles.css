@@ -2,7 +2,7 @@ h1 {text-align: center;
     padding-top: 60px;
     font-family: Arial; 
     letter-spacing: 2px;
-    font-size: 37}
+    font-size: 37;}
     
     main {background-color: #c0c1c2;
     border-radius: 5px;}
@@ -14,7 +14,7 @@ h1 {text-align: center;
     #image {max-width: 100%;
     height: auto;
     margin: auto;
-    position: absolute
+    position: absolute;
     }
     
     
