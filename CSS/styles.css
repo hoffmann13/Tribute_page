@@ -1,6 +1,6 @@
 h1 {text-align: center;
-margin-right: auto;
-margin-left: auto;
+position: relative;
+right: 300px;
 padding-top: 60px;
 font-family: Arial; 
 letter-spacing: 2px;
